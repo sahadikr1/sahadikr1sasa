@@ -2,7 +2,7 @@
 A *slightly* less clumsy python bot for discord
 
 ***
-
+[![Run on Repl.it](https://repl.it/badge/github/sahadikr1/sahadikr1sasa)](https://repl.it/github/sahadikr1/sahadikr1sasa)
 # Basic Settings
 
 The bot's basic settings should be in a file called `settings_dict.json` in the same folder as the `Main.py` file.  Some basic formatting of this file would look like so:
