@@ -246,7 +246,7 @@ class Actions(commands.Cog):
 
 		if datetime.date.today().month == 10:
 			# make it extra sp00py because it is spooktober
-			await ctx.message.add_reaction("ðŸŽƒ")
+			await ctx.message.add_reaction("🎃")
 		msg = self.spooky.computeAction(self.spooky, self.bot, ctx, member)
 		await ctx.channel.send(msg)
 		return
